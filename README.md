@@ -3,11 +3,13 @@
 
 
 Manipulamos a soluçao [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh) no [MediaPipe](https://mediapipe.dev/index.html) para processar um vídeo ao vivo e gerar saídas úteis para o problema.
+
+
 ![img_1.png](img%2Fimg_1.png)
 
-![img_2.png](img%2Fimg_2.png)
+![img_6.png](img%2Fimg_6.png)
 
-
+![img_7.png](img%2Fimg_7.png)
 
 Utilizando a formula para obtenção do EAR:
 
