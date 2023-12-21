@@ -1,5 +1,5 @@
 
-![img.png](img%2Fimg.png)
+![img_sorriso.png](img%2Fimg_sorriso.png)
 
 
 Manipulamos a soluçao [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh) no [MediaPipe](https://mediapipe.dev/index.html) para processar um vídeo ao vivo e gerar saídas úteis para o problema.
@@ -30,4 +30,4 @@ Manipular uma aplicação de um mouse e teclado com uma câmera virtual nesse [l
 
 Créditos: Alura e instrutora Mirla Costa
 
-![img.png](img.png)
+![img.png](img/img.png)
